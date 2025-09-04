@@ -7,3 +7,4 @@ My Grocery List
 - Lemons
 - Oranges
 - Grapes
+- Potato Chips
